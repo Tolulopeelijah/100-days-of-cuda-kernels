@@ -6,3 +6,4 @@ Inspiration and Mentor - @https://github.com/hkproj
 |------------|------------------------------------|------|---------------|
 | Day1       | VectorAddition                     |      |               |
 | Day2       | MatrixAddition                     |      |               |
+| Day3	     | 					  |	 |		 |
